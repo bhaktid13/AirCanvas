@@ -1,6 +1,7 @@
 # AirCanvas
 
 
-• Built the Neural Network Model which extracts the combination of features which predict lung cancer.
+•  Created a system which detects and tracks the pointer that acts as a mask.
 
-• Trained and tested the model and achieved the accuracy of 93.5%.
+•  The Setup then traces the input of the user in real time and displays it on the Canvas.
+
